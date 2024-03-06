@@ -29,7 +29,10 @@
 
 - [Vitor Luz](https://github.com/luz-vitor)
     
-        A aplicação foi desenvolvida utilizando Streamlit, Python e OpenAI GPT-3.5-turbo. 
+        A aplicação foi desenvolvida utilizando Streamlit, Python e OpenAI GPT-3.5-turbo.
+
+### Disponível para acesso em:
+- [VegetaGPT](https://vegetagpt-lrapg2suca-rj.a.run.app/)
 
 ### Agradeço por experimentar o VegetaGPT! Divirta-se aumentando seu "ki"!
 
