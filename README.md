@@ -33,6 +33,7 @@
 
 ### Disponível para acesso em:
 - [VegetaGPT](https://vegetagpt-lrapg2suca-rj.a.run.app/)
+  (Infelizmente acabou o pacote grátis de dados!)
 
 ### Agradeço por experimentar o VegetaGPT! Divirta-se aumentando seu "ki"!
 
